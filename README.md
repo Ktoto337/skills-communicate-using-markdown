@@ -1,3 +1,4 @@
+## Мои навыки работы с GitHub
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -19,9 +20,18 @@ In this course, you will:
 3. Add a code example
 4. Make a task list
 5. Merge your pull request
-
+![GitHub логотип](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ### How to start this course
 
+```bash
+echo "Привет, GitHub!"
+```
+
+- [x] Создать ветку
+- [x] Добавить заголовки
+- [x] Добавить изображение
+- [ ] Добавить пример кода
+- [ ] Завершить задание
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
 [![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=Exercise%3A+Communicate+using+Markdown&visibility=public)
@@ -47,3 +57,4 @@ If the exercise isn't ready in 20 seconds:
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Добавил Markdown-разметку
